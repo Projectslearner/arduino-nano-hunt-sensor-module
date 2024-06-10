@@ -12,7 +12,6 @@ The Hunt Sensor Module project demonstrates how to use an Arduino Nano with a hu
 
 #### Block Diagram
 
-**Block Diagram Title:** Hunt Sensor Module Connection Diagram
 
 #### Circuit Setup
 
